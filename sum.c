@@ -1,10 +1,16 @@
-#include<stdio.h>
+//Author name: Archit Gandotra
+//Creation date: 17th March 2021
+//Purpose: Sum of the two numbers
+#include<stdio.h> //Preprocessor directive to include input output function header file
+//Start of the main body function
 int main(){
-	int a,b;
-	printf("Enter Number 1 : ");
-	scanf("%d",&a);
-	printf("Enter Number 2 : ");
-	scanf("%d",&b);
-	printf("Sum of %d and %d is %d",a,b,a+b);
-	return 0;
-}
+	int n1,n2,s ;// Declaring variables of int data type
+	printf("enter the first number\n");//printf function calling to print the value of first number
+	scanf("%d",&n1);//scanf function calling to read the user input
+	printf("enter the second function\n");//printf function calling to print the value of second number
+	scanf("%d",&n2);//scanf funtion calling to read the user input
+	printf("%d sum",n1+n2);//printf funtion calling to print the result
+
+	return 0;//returning statement
+
+}//End of main funtion body
