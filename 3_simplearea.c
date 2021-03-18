@@ -1,5 +1,8 @@
-
-#include<stdio.h>//Preprocessor directive to include input output functions header file
+  
+//Author Name: Archit Gandotra
+//Creation Date: 17th March 2021
+//Purpose: To find the area and perimeter of Circle,Square and Rectangle
+#include<stdio.h> //Preprocessor directive to include input output functions header file
 int main(){//Start of main body function
 	float raduisOfCircle=3;//Declaring variable of float data type
 	float sideOfSquare=2;//Declaring variable of float data type
