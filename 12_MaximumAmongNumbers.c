@@ -1,4 +1,4 @@
-//© Ishav Verma 18/March/2021
+//Author Name: Archit Gandotra
 #include <stdio.h>
 #include <conio.h>
 
@@ -25,4 +25,3 @@ int main()
   return 0;
 }
 
-//It runs best in Windows Powershell.
