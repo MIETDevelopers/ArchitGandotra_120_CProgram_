@@ -1,3 +1,4 @@
+//Author Name: Archit Gandotra
 // A C Program to read and print elements in two dimensional array. © Ishav Verma 19/March/2021
 #include<stdio.h>
 int main(){
