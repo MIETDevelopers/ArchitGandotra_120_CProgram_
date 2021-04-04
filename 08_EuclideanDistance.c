@@ -1,3 +1,4 @@
+//Author Name: Archit Gandotra
 //A C Program to calculate distance between two points.
 #include<stdio.h> //Including Standard input & output header file from library. 
 #include<math.h>  //Including maths header file from library/
