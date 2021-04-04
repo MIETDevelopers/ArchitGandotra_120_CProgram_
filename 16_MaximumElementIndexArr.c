@@ -1,3 +1,4 @@
+//Author Name: Archit Gandotra
 //A C Program to find the largest number in a user entered array.
 #include<stdio.h>
 int main(){
