@@ -1,3 +1,4 @@
+//Author Name: Archit Gandotra
 #include <stdio.h>
 int main()
 {
